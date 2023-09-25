@@ -1,0 +1,15 @@
+/Users/douglassantana/Desktop/RandomPicker/bin/Debug/net7.0/RandomPicker
+/Users/douglassantana/Desktop/RandomPicker/bin/Debug/net7.0/RandomPicker.deps.json
+/Users/douglassantana/Desktop/RandomPicker/bin/Debug/net7.0/RandomPicker.runtimeconfig.json
+/Users/douglassantana/Desktop/RandomPicker/bin/Debug/net7.0/RandomPicker.dll
+/Users/douglassantana/Desktop/RandomPicker/bin/Debug/net7.0/RandomPicker.pdb
+/Users/douglassantana/Desktop/RandomPicker/obj/Debug/net7.0/RandomPicker.csproj.AssemblyReference.cache
+/Users/douglassantana/Desktop/RandomPicker/obj/Debug/net7.0/RandomPicker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/douglassantana/Desktop/RandomPicker/obj/Debug/net7.0/RandomPicker.AssemblyInfoInputs.cache
+/Users/douglassantana/Desktop/RandomPicker/obj/Debug/net7.0/RandomPicker.AssemblyInfo.cs
+/Users/douglassantana/Desktop/RandomPicker/obj/Debug/net7.0/RandomPicker.csproj.CoreCompileInputs.cache
+/Users/douglassantana/Desktop/RandomPicker/obj/Debug/net7.0/RandomPicker.dll
+/Users/douglassantana/Desktop/RandomPicker/obj/Debug/net7.0/refint/RandomPicker.dll
+/Users/douglassantana/Desktop/RandomPicker/obj/Debug/net7.0/RandomPicker.pdb
+/Users/douglassantana/Desktop/RandomPicker/obj/Debug/net7.0/RandomPicker.genruntimeconfig.cache
+/Users/douglassantana/Desktop/RandomPicker/obj/Debug/net7.0/ref/RandomPicker.dll
